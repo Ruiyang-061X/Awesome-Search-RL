@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <a href="https://github.com/Ruiyang-061X/Awesome-Search-RL/stargazers"><img src="https://img.shields.io/github/stars/Ruiyang-061X/Awesome-Search-RL?style=for-the-badge" alt="Stargazers"></a>
-  <a href="https://github.com/Ruiyang-061X/Awesome-Search-RL/network/members"><img src="https://img.shields.io/github/forks/Ruiyang-061X/Awesome-Search-RL?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/Ruiyang-061X/Awesome-Search-RL/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ruiyang-061X/Awesome-Search-RL?style=for-the-badge" alt="Contributors"></a>
-  <a href="https://github.com/Ruiyang-061X/Awesome-Search-RL/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Ruiyang-061X/Awesome-Search-RL?style=for-the-badge" alt="MIT License"></a>
-</div>
-
 <h1 align="center">Awesome Search RL</h1>
 
 ### :star::star::star: If you find this repo useful, please star it!
@@ -103,9 +96,3 @@
 ## 🍺 Contributing
 
 All issues and pull requests are warmly welcomed to contribute related papers to this curated list! Feel free to submit any relevant additions to help expand and enhance this collection.
-
-## 💡 Contributors
-
-<a href="https://github.com/Ruiyang-061X/Awesome-Search-RL/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ruiyang-061X/Awesome-Search-RL" />
-</a>
