@@ -37,7 +37,7 @@
 
    *Yaorui Shi, Sihang Li, Chang Wu, Zhiyuan Liu, Junfeng Fang, Hengxing Cai, An Zhang, Xiang Wang*
 
-1. **O2-Searcher [O2-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering](https://arxiv.org/abs/2402.03300)** [[Code](https://github.com/Acade-Mate/O2-Searcher)] (22 May 2025)
+1. **O2-Searcher [O2-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering](https://arxiv.org/abs/2505.16582)** [[Code](https://github.com/Acade-Mate/O2-Searcher)] (22 May 2025)
 
    *Jianbiao Mei, Tao Hu, Daocheng Fu, Licheng Wen, Xuemeng Yang, Rong Wu, Pinlong Cai, Xinyu Cai, Xing Gao, Yu Yang, Chengjun Xie, Botian Shi, Yong Liu, Yu Qiao*
 
