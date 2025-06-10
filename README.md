@@ -45,7 +45,7 @@
 
    *Weiqi Wu, Xin Guan, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Jiuxin Cao, Hai Zhao, Jingren Zhou*
 
-1. 🔥 **WebDancer [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.20285)** [[Code](https://github.com/Alibaba-NLP/WebAgent)] (28 May 2025)
+1. 🔥 **WebDancer [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648)** [[Code](https://github.com/Alibaba-NLP/WebAgent)] (28 May 2025)
 
    *Jialong Wu, Baixuan Li, Runnan Fang, Wenbiao Yin, Liwen Zhang, Zhengwei Tao, Dingchu Zhang, Zekun Xi, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou*
 
