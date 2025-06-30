@@ -45,9 +45,20 @@
 
    *Weiqi Wu, Xin Guan, Shen Huang, Yong Jiang, Pengjun Xie, Fei Huang, Jiuxin Cao, Hai Zhao, Jingren Zhou*
 
-1. 🔥 **WebDancer [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.20285)** [[Code](https://github.com/Alibaba-NLP/WebAgent)] (28 May 2025)
+1. 🔥 **WebDancer [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648)** [[Code](https://github.com/Alibaba-NLP/WebAgent)] (28 May 2025)
 
    *Jialong Wu, Baixuan Li, Runnan Fang, Wenbiao Yin, Liwen Zhang, Zhengwei Tao, Dingchu Zhang, Zekun Xi, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou*
+
+
+1. **HARIS [Coordinating Search-Informed Reasoning and Reasoning-Guided Search in Claim Verification](https://arxiv.org/abs/2506.07528)** (9 June 2025)
+
+   *Qisheng Hu, Quanyu Long, Wenya Wang*
+
+
+1. **Awesome-Deep-Research [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959)** [[Resource](https://github.com/DavidZWZ/Awesome-Deep-Research)] (26 June 2025)
+
+   *Weizhi Zhang, Yangning Li, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Wei-Chieh Huang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu*
+   
 
 ## ⚒️ RL Related
 
